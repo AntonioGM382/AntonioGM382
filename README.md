@@ -26,7 +26,7 @@
 └──╼ whoami
 ```
 
-## Hey, I'm Toño 👋
+## Hey, I'm Toño
 
 **Technical PM | Systems Engineer | Software Architect** building reliable software and helping teams turn complex goals into shipped outcomes.
 
@@ -37,17 +37,17 @@ I work across product direction, system design, and implementation. My focus is 
        \________ measurable impact ________/
 ```
 
-- 🧭 Translate business needs into technical direction and delivery plans.
-- 🏗️ Design and build services for scale, reliability, and maintainability.
-- ⚡ Bring engineering teams together around outcomes and execution.
+- Translate business needs into technical direction and delivery plans.
+- Design and build services for scale, reliability, and maintainability.
+- Bring engineering teams together around outcomes and execution.
 
 ## Enterprise telemetry
 
 <div align="center">
 
-### `1,800+` contributions in the past year
+### `1,880+` enterprise contributions in the past year
 
-**High-velocity enterprise engineering across high-scale distributed systems**
+**High-velocity engineering across high-scale distributed systems**
 
 Consistent delivery, systems thinking, and hands-on engineering focused on production impact.
 
