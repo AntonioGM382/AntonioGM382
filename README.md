@@ -41,18 +41,6 @@ I work across product direction, system design, and implementation. My focus is 
 - Design and build services for scale, reliability, and maintainability.
 - Bring engineering teams together around outcomes and execution.
 
-## Enterprise telemetry
-
-<div align="center">
-
-### `1,880+` enterprise contributions in the past year
-
-**High-velocity engineering across high-scale distributed systems**
-
-Consistent delivery, systems thinking, and hands-on engineering focused on production impact.
-
-</div>
-
 ## Technology stack
 
 <div align="center">
@@ -75,11 +63,11 @@ Consistent delivery, systems thinking, and hands-on engineering focused on produ
 
 **Cloud & infrastructure**  
 <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS%20ECS-232f3e?style=flat-square&logo=amazonecs&logoColor=ff9900" alt="AWS ECS" />
+<img src="https://img.shields.io/badge/AWS%20ECS%20Fargate-232f3e?style=flat-square&logo=amazonecs&logoColor=ff9900" alt="AWS ECS Fargate" />
 
 </div>
 
-## Engineering approach
+## Architecture & delivery
 
 ```text
 $ ./delivery --mode=systems-minded --production-ready
@@ -90,15 +78,11 @@ $ ./delivery --mode=systems-minded --production-ready
 > ship with confidence
 ```
 
-I care about the full engineering lifecycle: clear requirements, sound architecture, maintainable implementation, and dependable systems in production.
+I care about the full engineering lifecycle: clear requirements, sound architecture, maintainable implementation, and dependable systems in production. I favor pragmatic decisions that balance delivery speed with reliability and long-term system health.
 
-## GitHub activity
+## Portfolio
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AntonioGM382&hide_border=true&background=07130c&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&sideLabels=c7f5d8&dates=8eb89b&currStreakNum=e6fff0&sideNums=e6fff0" alt="GitHub contribution streak" />
-</div>
-
-## Connect
+Explore selected projects and work at [antoniogm382.github.io/portfolio](https://antoniogm382.github.io/portfolio/).
 
 <div align="center">
   <a href="https://antoniogm382.github.io/portfolio/">
